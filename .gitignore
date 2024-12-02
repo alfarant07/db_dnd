@@ -8,7 +8,7 @@ __pycache__/
 *.so
 
 #configuration
- config.py
+/config.py
 
 
 # Distribution / packaging
